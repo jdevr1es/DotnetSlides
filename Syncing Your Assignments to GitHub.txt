@@ -1,0 +1,21 @@
+**Syncing Your Assignments to GitHub**
+
+**Initial Setup**
+1. In GitHub, copy the URL of your repository from the address bar of the browser.
+2. Go to Visual Studio, and in the Git menu (top of screen) select "Manage Remotes".
+3. Click "Add".
+4. Enter the name "MSSA".
+5. Paste the URL of your GitHub repository into the Fetch field (Push will be created automatically).
+6. Click "Ok".
+
+**Upload a Project to GitHub**
+1. In Visual Studio, open the project you want to upload to GitHub
+2. In the Git menu, select "Create Git Repository".
+3. In left-hand navigation, select "Existing Remote".
+4. Enter URL of GitHub repository that you copied earlier.
+5. Click "Create and Push" button.
+6. In "GitChanges" window, where it shows the branch name, click "New Branch".
+7. Enter a new branch name, the same as the project name.
+8. Enter a commit message. Use the project name.
+9. Click on Up Arrow 
+10. Finished.
